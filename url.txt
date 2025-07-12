@@ -1,4 +1,1 @@
-*.su
-*.rf
-*.??
-*.by
+github.io
